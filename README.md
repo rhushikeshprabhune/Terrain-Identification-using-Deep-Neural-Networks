@@ -1,1 +1,2 @@
 # Terrain-Identification-using-Deep-Neural-Networks
+The project aims to develop a terrain identification system based on inertial measurement units IMU streams collected from sensors attached to the lower limb of 8 subjects. The stream consists of six measurements, three each for accelerometer and gyroscope data. The terrain classes include standing or walking in solid ground, going down the stairs, going up the stairs, and walking on grass.
